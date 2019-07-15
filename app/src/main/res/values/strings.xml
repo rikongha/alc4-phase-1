@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="redarokim">\@Redarokim</string>
+    <string name="email_address">rikongha@gmail.com</string>
+    <string name="phone_number">07033631484</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="android">Android</string>
+    <string name="full_name">Redarokim Ikongha</string>
+</resources>
